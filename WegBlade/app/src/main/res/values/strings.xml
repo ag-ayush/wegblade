@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">WegBlade</string>
+    <string name="app_name">Cam Sample</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_picture_error">Error Setting up Camera For Picture mode</string>
+    <string name="camera_video_error">Error Setting up Camera For Picture mode</string>
+    <string name="camera_video_record">Record Video</string>
+    <string name="camera_video_stop">Stop Recording</string>
 </resources>

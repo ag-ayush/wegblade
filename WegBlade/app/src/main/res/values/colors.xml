@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--Suggest Colors to use by Vuzix Blade design guide-->
+    <color name="vuzix_green">#00FF7D</color>
+    <color name="vuzix_white">#FFFFFF</color>
+    <color name="vuzix_yellow">#F2F100</color>
+    <color name="vuzix_red">#FC101B</color>
 </resources>

@@ -15,9 +15,16 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    // Older versions may give compile errors
+}
+
+repositories {
+    jcenter()
 }
 
 dependencies {
     implementation 'com.vuzix:hud-actionmenu:1.1'
     implementation 'com.vuzix:hud-resources:1.1'
+    implementation group: 'me.dm7.barcodescanner', name: 'zxing', version: '1.8.2'
+
 }
